@@ -13,7 +13,8 @@ jobs:
 
       - run: |
           echo '' > README.md
-          for i in $(ls *.* | grep -E "(png|jpg)$");do
+          # ls -t sorts by date, latest first
+          for i in $(ls -t *.* | grep -E "(png|jpg)$");do
            image_link="https://raw.githubusercontent.com/ono7/wallpaper/main/$i"
            echo "<img src=\"$image_link\">" >> README.md
           done
