@@ -13,7 +13,7 @@ jobs:
 
       - run: |
           echo '' > README.md
-          for file in $(ls *.*); do
+          for file in $(ls); do
             if [ -f "$file" ]; then
               image_link="https://raw.githubusercontent.com/ono7/wallpaper/main/$filename"
               echo "<img src=\"$image_link\">" >> README.md
