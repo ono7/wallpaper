@@ -19,6 +19,7 @@ jobs:
               echo "<img src=\"$image_link\">" >> README.md
             fi
           done
+          cat README.md
 
       - name: Commit and push changes
         run: |
