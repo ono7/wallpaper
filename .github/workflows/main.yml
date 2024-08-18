@@ -1,0 +1,29 @@
+---
+name: build readme
+run-name: ${{ github.actor }} 🚀
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - run: |
+          echo '' > README.md
+          for file in $(ls *.*); do
+            if [ -f "$file" ]; then
+              image_link="https://raw.githubusercontent.com/ono7/wallpaper/main/$filename"
+              echo "<img src=\"$image_link\">" >> README.md
+            fi
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions-bot@users.noreply.github.com'  
+          git add README.md
+          git commit -m "Update README with image links"
+          git push
