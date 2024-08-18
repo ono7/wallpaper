@@ -27,5 +27,6 @@
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/mecha-nostalgia.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/plants_leaves_in_the_water.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/python-minim.png">
+<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/rocks.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/routine.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/tech.png">
