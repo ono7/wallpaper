@@ -1,7 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/File_1.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/File_2.jpg">
-<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/File_3.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/File_4.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/File_5.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_black_and_white_photo_of_a_city.png">
