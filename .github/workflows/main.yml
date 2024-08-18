@@ -13,11 +13,9 @@ jobs:
 
       - run: |
           echo '' > README.md
-          for file in $(ls); do
-            if [ -f "$file" ]; then
-              image_link="https://raw.githubusercontent.com/ono7/wallpaper/main/$filename"
-              echo "<img src=\"$image_link\">" >> README.md
-            fi
+          for i in $(find . -type f | grep -E "(png|jpg)$" | xargs basename);do
+           image_link="https://raw.githubusercontent.com/ono7/wallpaper/main/$i"
+           echo "<img src=\"$image_link\">" >> README.md
           done
           cat README.md
 
