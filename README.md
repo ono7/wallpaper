@@ -3,14 +3,14 @@
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00013.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00011.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00012.jpg">
+<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00010.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00008.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00009.jpg">
-<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00010.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00006.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00007.jpg">
-<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00004.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00005.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00003.jpg">
+<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00004.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00002.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/sun-aug-2024-00001.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/routine.jpg">
@@ -19,8 +19,9 @@
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/plants_leaves_in_the_water.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/python-minim.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/mecha-nostalgia.png">
-<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/lake_1.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/leave-planet.jpg">
+<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/lake_1.jpg">
+<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/hack-the-ai.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/astronaut-balloons.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_video_game_screen_of_a_video_game_01.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_video_game_screen_of_a_video_game.jpg">
@@ -33,9 +34,9 @@
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_moon_in_the_sky.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_group_of_people_standing_on_a_mountain.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_group_of_colorful_ghosts.png">
+<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_cartoon_of_jellyfish_and_coral_reef.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_foggy_forest_with_trees_and_bushes.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_cartoon_of_a_couple_of_tentacles.png">
-<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_cartoon_of_jellyfish_and_coral_reef.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_blueprint_of_a_cassette_tape.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_boat_in_the_water.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/a_black_and_white_photo_of_a_city.png">
@@ -45,9 +46,9 @@
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/09232024-01.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08302024_00005.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08302024_00006.png">
-<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08302024_00003.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08302024_00004.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08302024_00002.jpg">
+<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08302024_00003.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08302024_00001.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08252024-31.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08252024-30.jpg">
@@ -62,5 +63,5 @@
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08252024-00020.png">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08232023-05.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08232023-04.jpg">
-<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08232023-02.jpg">
 <img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08232023-01.jpg">
+<img src="https://raw.githubusercontent.com/ono7/wallpaper/main/08232023-02.jpg">
